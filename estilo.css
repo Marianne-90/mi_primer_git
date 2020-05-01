@@ -1,0 +1,17 @@
+*{
+    font-size: 20px;
+}
+
+h1{
+    font-family: "raleway", sans-serif;
+    color: rgb(247, 67, 97);
+    text-align: center;
+    font-size: 4rem;
+}
+
+p{
+    font-family: "desyrel", sans-serif;
+    color: rgb(247, 67, 97);
+    text-align: center;
+    font-size: 2rem;
+}
